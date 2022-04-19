@@ -19,7 +19,7 @@ export default function App() {
         mapStyle="mapbox://styles/mapbox/streets-v9"
         mapboxAccessToken='pk.eyJ1IjoiZmFyaWFiaW50ZWthZGVyIiwiYSI6ImNsMjVwMWdyNDA2YmozYm8wZDk1MDkyb2sifQ.MNgRzV6q5svRlvzeziFZsQ'
       >
-         <Marker longitude={-75.6903} latitude={45.4211} color="red" />
+         <Marker longitude={90.399452} latitude={23.7771761} color="red" />
       </ReactMapGL>
     </div>
   );
